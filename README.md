@@ -1,5 +1,5 @@
 # miniapi - (Work in progress)
-Small application to handle a login and display airlines search results
+Small application to handle a login and display hotel search results
 
 ### Details
 The app is incomplete. Still work to do (like handle errors, add styles, show search results, etc)
